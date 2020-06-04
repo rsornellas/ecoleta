@@ -1,5 +1,5 @@
 <h3 align="center">
-    <img alt="Logo" title="logo" width="300px" src="./img/logo.png">
+    <img alt="Logo" title="logo" width="300px" src="https://github.com/vitorserrano/ecoleta/blob/master/.github/logo.png">
     <br><br>
     <b>Recicle! O meio ambiente agradece! ♻️</b> 
 </h3>
