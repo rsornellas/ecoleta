@@ -66,7 +66,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 1. Faça um clone :
 
 ```sh
-  $ git clone https://github.com/vitorserrano/ecoleta.git
+  $ git clone https://github.com/rsornellas/ecoleta.git
 ```
 
 2. Executando a Aplicação:
