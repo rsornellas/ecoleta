@@ -1,5 +1,5 @@
 <h3 align="center">
-    <img alt="Logo" title="#logo" width="300px" src=".github/logo.png">
+    <img alt="Logo" title="#logo" width="300px" src="https://github.com/vitorserrano/ecoleta/blob/master/.github/logo.png">
     <br><br>
     <b>Recicle! ajude o meio ambiente!</b> 
 </h3>
@@ -50,7 +50,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 - O layout está disponível no **[Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/)**;
 
 <h1 align="center">
-    <img alt="Web" src=".github/VideoWeb.gif" width="900px">
+    <img alt="Web" src="https://github.com/vitorserrano/ecoleta/blob/master/.github/VideoWeb.gif" width="900px">
 </h1>
 
 <a id="como-usar"></a>
